@@ -1,3 +1,5 @@
+Main.dart a file in flutter app which is the base and the important file without which our system won't work
+
 import 'package:flutter/material.dart';
 
 // Import the firebase_core plugin
